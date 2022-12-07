@@ -34,3 +34,6 @@ void INT0_func(void)     //n-call el action fl main
 {
 	DIO_togglePinValue(DIO_PORTC,DIO_PIN2);
 }
+void print (void)
+{ 
+}
